@@ -7,9 +7,6 @@ import numpy as np
 from HandLandmarkModule import handLandmarkDetector, in_circle
 
 
-
-
-
 ################# activate control center view (default=True) ##################
 controlCenter = True
 ################# set up Tello speed ##################
