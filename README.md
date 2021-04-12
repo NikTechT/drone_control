@@ -7,7 +7,7 @@ A longer video can be found here:
 
 ## Control Center Mode & Webcam Mode
 
-![Alt Text](control_center.gif) ![Alt Text](cam_mode.gif)
+![Alt Text](gif/control_center.gif) ![Alt Text](gif/cam_mode.gif)
 
 
 ## Requirements
