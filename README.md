@@ -2,7 +2,7 @@
 
 This project was inspired by [Murtaza's Workshop - Robotics and AI's](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A) videos on hand gesture control using google's mediapipe and the DJI Tello Drone.
 
-A longer video can be found here: 
+A longer video can be found here:(https://www.youtube.com/watch?v=4o77ZJJ_ynU&t=8s)
 
 
 ## Control Center Mode & Webcam Mode
